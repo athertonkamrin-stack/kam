@@ -44,3 +44,4 @@ let myEnemy = sprites.create(img`
     . . . . . . . e . e . . . . . . 
     `, SpriteKind.Enemy)
 myEnemy.follow(kam)
+kam.sayText("yooo")
